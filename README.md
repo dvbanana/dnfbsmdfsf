@@ -1,4 +1,4 @@
-# Lumi Games Repository
+# LumiOS Games
 
 This repository contains games, images, and JSON data under the Eclipse Public License 2.0. These resources are designed for use with **LumiOS** and can be found in the main LumiOS repository [here](https://github.com/LuminesenceProject/LumiOS).
 
