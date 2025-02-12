@@ -1,11 +1,29 @@
 [
+         {
+        "name": "swf",
+        "image": "https://ruffle.rs/logo.svg",
+        "path": "https://raw.githubusercontent.com/dvorme/dnfbsmdfsf/main/games/player.html",
+        "featured": "A traditional flash game.",
+        "description": "swf",
+        "types": ["popular"],
+        "type": "html"
+    },
+         {
+        "name": "fappybird",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkotaku.com%2Fgames%2Ffappy-bird&psig=AOvVaw3pGpkHAD1ln4qwpBa6fpU3&ust=1739475090308000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCLDb9vPvvosDFQAAAAAdAAAAABAE",
+        "path": "https://raw.githubusercontent.com/dvorme/dnfbsmdfsf/main/games/flappybird.html",
+        "featured": "A traditional flash game.",
+        "description": "fappybird",
+        "types": ["popular", "skill"],
+        "type": "html"
+    },
         {
         "name": "proxy",
         "image": "https://bosshorn.com/cdn/shop/articles/3-honks-meaning.webp?v=1708916591&width=1100",
         "path": "https://raw.githubusercontent.com/dvorme/dnfbsmdfsf/main/games/Proxy.html",
         "featured": "A traditional flash game.",
         "description": "proxy",
-        "types": ["popular", "skill", "shooter"],
+        "types": ["popular"],
         "type": "html"
     },
     {
