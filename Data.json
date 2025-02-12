@@ -1539,5 +1539,14 @@
         "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/flash.png",
         "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/swf/throwrocks.swf",
         "type": "swf"
+    },
+        {
+        "name": "calculator",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Windows_Calculator_icon.png",
+        "path": "https://raw.githubusercontent.com/dvorme/dnfbsmdfsf/main/games/TI%20calculator%20simulation%20remix.html",
+        "featured": "A traditional flash game.",
+        "description": "",
+        "types": ["popular"],
+        "type": "html"
     }
 ]
