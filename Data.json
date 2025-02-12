@@ -1,4 +1,13 @@
 [
+        {
+        "name": "proxy",
+        "image": "https://bosshorn.com/cdn/shop/articles/3-honks-meaning.webp?v=1708916591&width=1100",
+        "path": "https://raw.githubusercontent.com/dvorme/dnfbsmdfsf/main/games/Proxy.html",
+        "featured": "A traditional flash game.",
+        "description": "proxy",
+        "types": ["popular", "skill", "shooter"],
+        "type": "html"
+    },
     {
         "name": "Clockwork",
         "image": "https://avatars.githubusercontent.com/u/114689052?s=48&v=4",
