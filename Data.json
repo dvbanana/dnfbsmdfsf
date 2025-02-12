@@ -1,5 +1,14 @@
 [
     {
+        "name": "Clockwork",
+        "image": "https://avatars.githubusercontent.com/u/114689052?s=48&v=4",
+        "path": "https://raw.githubusercontent.com/dvorme/dnfbsmdfsf/main/games/Clockwork%20clever.htm",
+        "featured": "os in os",
+        "description": "os",
+        "types": ["os"],
+        "type": "html"
+    },
+    {
         "name": "Valorant",
         "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/valorant.jpeg",
         "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/valorant.html",
