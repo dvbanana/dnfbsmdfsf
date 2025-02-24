@@ -1,4 +1,13 @@
 [
+                  {
+        "name": "Luminesence",
+        "image": "https://avatars.githubusercontent.com/u/101959214?s=48&v=4",
+        "path": "https://raw.githubusercontent.com/dvorme/dnfbsmdfsf/main/games/yeet.html",
+        "featured": "Luminesence",
+        "description": "The luminesence website is a site dedicated to letting a user play games during school. Everyone should have access to games, even if it's during school It also has hacks, which can be plugged into a websites inspect mode console. (F12) Everything is written in either html of javascript, so it should always run. Also, dont tell any school admins about this.",
+        "types": ["popular"],
+        "type": "html"
+    },
          {
         "name": "swf(!wip!)",
         "image": "https://ruffle.rs/logo.svg",
