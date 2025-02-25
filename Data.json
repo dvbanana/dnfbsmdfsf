@@ -11,7 +11,7 @@
          {
         "name": "swf(!wip!)",
         "image": "https://ruffle.rs/logo.svg",
-        "path": "https://raw.githubusercontent.com/dvorme/dnfbsmdfsf/main/games/player.html",
+        "path": "https://unpkg.com/@ruffle-rs/ruffle",
         "featured": "A traditional flash game.",
         "description": "swf",
         "types": ["popular"],
